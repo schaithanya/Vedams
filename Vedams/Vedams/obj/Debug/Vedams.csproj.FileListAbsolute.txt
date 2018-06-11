@@ -1,0 +1,4 @@
+G:\MyDrive\MyApps\Vedams\Vedams\Vedams\bin\Vedams.dll
+G:\MyDrive\MyApps\Vedams\Vedams\Vedams\bin\Vedams.pdb
+G:\MyDrive\MyApps\Vedams\Vedams\Vedams\obj\Debug\Vedams.dll
+G:\MyDrive\MyApps\Vedams\Vedams\Vedams\obj\Debug\Vedams.pdb
